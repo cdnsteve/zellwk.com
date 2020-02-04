@@ -115,7 +115,7 @@ app.post('/signup', async(req, res, next) => {
 })
 ```
 
-If you did not write a custom error handler yet, Express will handle the error for you with its default error handler. (Though I recommend you write a custom error handler. You can learn more about it [here]()).
+If you did not write a custom error handler yet, Express will handle the error for you with its default error handler. (Though I recommend you write a custom error handler. You can learn more about it <a href="/blog/express-errors/">here</a>).
 
 Express's default error handler will:
 
